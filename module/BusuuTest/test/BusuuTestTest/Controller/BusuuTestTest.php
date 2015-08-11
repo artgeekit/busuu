@@ -43,5 +43,5 @@ class BusuuTestTest extends PHPUnit_Framework_TestCase
             '"Comment Text" was not set correctly'
         );
     }
-    // ... AF: here could much more other test...
+    // ... AF: here should be much more other tests...
 }
