@@ -37,4 +37,5 @@ class BusuuTestControllerTest extends AbstractHttpControllerTestCase
     	 $this->dispatch('/busuutest/up/1');
     	 $this->assertResponseStatusCode(200);
     }
+     // ... AF: here should be much more other tests...
 }
